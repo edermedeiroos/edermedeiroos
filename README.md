@@ -49,8 +49,9 @@ Foco no desenvolvimento de rotinas ETL/ELT eficientes, automações escaláveis,
 ### 📊 Métricas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edermedeiroos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Eder's GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edermedeiroos&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=edermedeiroos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edermedeiroos&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
