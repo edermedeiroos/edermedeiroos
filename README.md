@@ -50,8 +50,6 @@ Foco no desenvolvimento de rotinas ETL/ELT eficientes, automações escaláveis,
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=edermedeiroos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edermedeiroos&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
