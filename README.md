@@ -1,48 +1,35 @@
-# Olá, eu sou o Eder Medeiros 👋
+# 📊 Eder Medeiros
 
-Atuo na área de dados, com foco em **engenharia de dados**, pipelines analíticos e infraestrutura em nuvem. Em paralelo, curso **Ciência de Dados e Inteligência Artificial na Universidade Estadual de Londrina (UEL)**.
-
-Foco no desenvolvimento de rotinas ETL/ELT eficientes, automações escaláveis, modelagem dimensional de dados e otimização de consultas e custos de processamento.
+`Engenharia de Dados` `|` `Business Intelligence` `|` `Cloud & Automação` `|` `Ciência de Dados`
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+Atualmente atuo como **Assistente de Dados**, com foco em engenharia de dados, pipelines analíticos e infraestrutura em nuvem. Em paralelo, curso **Ciência de Dados e Inteligência Artificial na Universidade Estadual de Londrina (UEL)**.
 
-**Linguagens & Consulta**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-EAA023?style=for-the-badge&logo=powerbi&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-<br>
-
-**Manipulação de Dados, ETL & BI**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-<br>
-
-**Bancos de Dados & Armazenamento**  
-![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br>
-
-**Cloud & DevOps**  
-![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Trabalho no desenvolvimento de rotinas ETL/ELT eficientes, automações escaláveis, modelagem dimensional de dados e otimização de consultas e custos de processamento.
 
 ---
 
-### 🎯 Foco Técnico & Pesquisa
+### 🛠️ Expertise & Stack Tecnológica
 
-* **Engenharia de Dados:** Criação de pipelines robustos de integração e transformação via Python e PySpark, integração de APIs e orquestração multicloud (OCI e Azure).
-* **Otimização & Bancos de Dados:** Modelagem relacional e dimensional, tuning de queries SQL de alta complexidade e redução de latência e custos computacionais.
-* **Business Intelligence & Automação:** Desenvolvimento de ecossistemas analíticos, modelagem DAX para métricas de negócio e automação de rotinas de dados.
-* **Fundamentos:** Base acadêmica em estruturas de dados, complexidade algorítmica e álgebra linear (C++), aplicada à otimização de processos de dados.
+* **Engenharia de Dados:** Pipelines de integração e transformação via Python e PySpark, integração de APIs e orquestração multicloud (OCI e Azure).
+* **Bancos de Dados & Otimização:** Modelagem relacional e dimensional, tuning de queries SQL de alta complexidade, redução de latência e custos computacionais.
+* **BI & Automação:** Ecossistemas analíticos, modelagem DAX para métricas de negócio, automação de rotinas de dados.
+* **Fundamentos:** Estruturas de dados, complexidade algorítmica e álgebra linear (C++), aplicados à otimização de processos.
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-05122A?style=flat-square&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-05122A?style=flat-square&logo=postgresql&logoColor=4479A1)
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat-square&logo=mysql&logoColor=4479A1)
+![Oracle](https://img.shields.io/badge/Oracle-05122A?style=flat-square&logo=oracle&logoColor=F80000)
+![Power BI](https://img.shields.io/badge/Power_BI-05122A?style=flat-square&logo=powerbi&logoColor=F2C811)
+![PySpark](https://img.shields.io/badge/PySpark-05122A?style=flat-square&logo=apachespark&logoColor=E25A1C)
+![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat-square&logo=pandas&logoColor=150458)
+![Azure](https://img.shields.io/badge/Azure-05122A?style=flat-square&logo=microsoftazure&logoColor=0089D6)
+![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Git](https://img.shields.io/badge/Git-05122A?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat-square&logo=github&logoColor=white)
 
 ---
 
@@ -54,7 +41,7 @@ Foco no desenvolvimento de rotinas ETL/ELT eficientes, automações escaláveis,
 
 ---
 
-### 📬 Contato & Redes
+### 🤝 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edermedeirosdatascience/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ederlissemedeiros@gmail.com)
